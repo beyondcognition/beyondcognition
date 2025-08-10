@@ -1,6 +1,6 @@
 ## 🙏 Namaste, I'm Atul! Welcome to my Github Profile!
 
-## Data Scientist 📊 | Machine Learning Expert 🤖 | Turning Data into Insights ⚡
+### Data Scientist 📊 | Machine Learning Expert 🤖 | Turning Data into Insights ⚡
 
 📍 **Bangalore**  
 📧 **Email:** [atul.analyst@gmail.com](mailto:atul.analyst@gmail.com)  
