@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Atul!
+## 🙏 Namaste, I'm Atul! Welcome to my Github Profile!
 
-## 🚀 Data Scientist focused on applied AI, ML and building analytics based products.
+## Data Scientist 📊 | Machine Learning Expert 🤖 | Turning Data into Insights ⚡
 
 📍 **Bangalore**  
 📧 **Email:** [atul.analyst@gmail.com](mailto:atul.analyst@gmail.com)  
@@ -9,7 +9,9 @@
 
 
 ### About Me 🌐
-Data Professional over 17 years of experience in Data analysis, ML, AI, and Customer Value Management. I transform data into actionable strategies.
+I am a Data Professional with over 17 years of experience in Data analysis, ML, AI, and Customer Value Management. 
+I love what I do and try my best to transform data into actionable strategies.
+In my free time, I like to take my son to park. And also read, hike, and have tea whenever asked for it.
 
 
 ### Professional Highlights 🌟
