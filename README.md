@@ -5,6 +5,7 @@
 📍 **Bangalore**  
 📧 **Email:** [atul.analyst@gmail.com](mailto:atul.analyst@gmail.com)  
 🔗 **LinkedIn:** [AtulR](https://www.linkedin.com/in/atulanalyst)
+
 👨‍💻 **GitHub:** [beyondcognition](https://github.com/beyondcognition)
 
 
