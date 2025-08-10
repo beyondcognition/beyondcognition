@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Atul!
 
-## 🚀 AI/ML Engineer focusing on applied ML, AI, and building analytics based products.
+## 🚀 Data Scientist focused on applied AI, ML and building analytics based products.
 
 📍 **Bangalore**  
 📧 **Email:** [atul.analyst@gmail.com](mailto:atul.analyst@gmail.com)  
